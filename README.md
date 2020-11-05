@@ -14,7 +14,7 @@ Link: [https://www.nurienstudio.com/](https://www.nurienstudio.com/)
 
 * [react](https://es.reactjs.org/)
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom)
-* [react-scroll-into-view"](https://www.npmjs.com/package/react-scroll-into-view)
+* [react-scroll-into-view](https://www.npmjs.com/package/react-scroll-into-view)
 * [react-transition-group](https://www.npmjs.com/package/react-transition-group) - animates unmounted components.
 * [styled-components](https://www.npmjs.com/package/styled-components)
 * [cloudinary-react](https://cloudinary.com/documentation/react_integration) - photos are hosted on Cloudinary.
